@@ -31,4 +31,7 @@ Direct
 Distributors
 Recently the company has faced a unforeseen loss by opening store in America based on the surveys, intuition and some excel analysis and also the company’s competitors has handful of analytics team to perform analysis and make data driven decision. So, the AltiQ hardware has no other option other than building their analytics team for data driven insights and decisions in the future to survive better in the industry.
 
-Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
+Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project.
+
+**Project Outcome**
+By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
